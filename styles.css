@@ -1,0 +1,32 @@
+body {
+	background-color: #292f33;
+	padding-bottom: 50px;
+}
+
+.tweet {
+	text-align: center;
+	color: #ccd6dd;
+	font-family: fantasy;
+}
+
+.user {
+	color: #55ACEE;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.message {
+	font-family: fantasy;
+	padding: 2px;
+}
+
+.date {
+	padding: 10px;
+	color: #8899a6;
+	display: inline;
+	font-family: fantasy;
+}
+
+a:hover{
+	text-decoration: underline;
+};
