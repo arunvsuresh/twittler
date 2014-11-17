@@ -46,9 +46,9 @@ var generateRandomTweet = function(){
   addTweet(tweet);
 };
 
-for(var i = 0; i < 10; i++){
+//for(var i = 0; i < 10; i++){
   generateRandomTweet();
-}
+//}
 
 var scheduleNextTweet = function(){
   generateRandomTweet();
