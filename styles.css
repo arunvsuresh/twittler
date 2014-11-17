@@ -1,5 +1,5 @@
 body {
-	background-color: #292f33;
+	background-color: #292f33 !important;
 	padding-bottom: 50px;
 }
 
@@ -30,3 +30,16 @@ body {
 a:hover{
 	text-decoration: underline;
 };
+
+li.user_profile {
+	color: #337ab7;
+	text-decoration: none;
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+}
+
+/*ul.nav-pills {
+	display: flex;
+	content: center;
+}*/
